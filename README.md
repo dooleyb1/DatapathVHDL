@@ -24,9 +24,9 @@ Also contains **testbenches** for each respective component.
 **System Overview**: 
 ![alt text][system]
 
-[system]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "System"
+[system]: https://github.com/dooleyb1/DatapathVHDL/blob/master/circuit "System"
 
 **Circuit Schematic (_Adjusted to 8 Registers_)**: 
 ![alt text][circuit]
 
-[circuit]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Circuit"
+[circuit]: https://github.com/dooleyb1/DatapathVHDL/blob/master/circuit_schematic.png "Circuit"
